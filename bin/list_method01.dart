@@ -7,5 +7,8 @@
     Returns:
         list: return answer
 */
+List func() {
+  return [12, 45, 56];
+}
 
 void main() {}
